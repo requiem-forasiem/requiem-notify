@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=requiem-notify
+Comment=Graphical notification applet for requiem
+TryExec=requiem-notify
+Exec=requiem-notify         
+Icon=utilities-system-monitor
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=System;Security;
